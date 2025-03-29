@@ -34,7 +34,7 @@
 1. Run the application:
    
     ```bash
-    python main.py
+    python WEATHERAPPPPP.py
     ```
 
 2. Follow the prompts to enter the location for which you want to fetch the weather data.
