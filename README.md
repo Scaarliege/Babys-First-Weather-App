@@ -49,4 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [OpenWeatherMap](https://openweathermap.org/) for providing the weather API.
+- [Nominatim](https://nominatim.org/) for providing the lat-long coordinates to City conversions.
+
+- [Open-Meteo](https://open-meteo.com/) for providing the weather services.
