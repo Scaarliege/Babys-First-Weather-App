@@ -1,9 +1,5 @@
 # Baby's First Weather App
 
-## Description
-
-**Baby's First Weather App** is a Python-based weather application. This project aims to provide a simple and intuitive interface for users to check the current weather conditions of any location.
-
 ## Features
 
 - Fetches current weather data for any location.
@@ -14,7 +10,7 @@
 ## Requirements
 
 - Python 3.x
-- Requests library (`pip install requests`)
+- Requests library 
 
 ## Installation
 
@@ -28,23 +24,21 @@
 2. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install requests
     ```
-
+    ```bash
+    pip install geocoder
+    ```
+   
 ## Usage
 
 1. Run the application:
-
+   
     ```bash
     python main.py
     ```
 
 2. Follow the prompts to enter the location for which you want to fetch the weather data.
-
-## Configuration
-
-- You can configure the application by editing the `config.py` file.
-- Add your API key for the weather service in the `config.py` file.
 
 ## Contributing
 
