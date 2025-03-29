@@ -3,14 +3,13 @@
 ## Features
 
 - Fetches current weather data for any location.
-- Displays temperature, humidity, wind speed, and weather conditions.
-- Simple and user-friendly interface.
+- Displays latitude longitude coordinates, temperature, wind speed, and weather conditions.
+- CLI based interface
 - Lightweight and easy to set up.
 
 ## Requirements
 
 - Python 3.x
-- Requests library 
 
 ## Installation
 
